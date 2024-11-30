@@ -63,7 +63,7 @@ EMAIL_APP_PASSWORD="xxxx xxxx xxxx xxxx"
 SALT_EXPONENT=10
 ```
 
-5. If the PostgreSQL database is not generated, generate the database first.
+5. Optional: If the PostgreSQL database is not generated, generate the database first.
 
 ```
 npm run migrateprod
